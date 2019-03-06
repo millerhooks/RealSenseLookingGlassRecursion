@@ -7,7 +7,7 @@ Inspired by this tweet (https://twitter.com/jun_mh4g/status/1102932506901307398)
 Here I have set up a project with the Intel Realsense (https://github.com/IntelRealSense/librealsense) and Looking Glass Display Holoplay SDK (https://lookingglassfactory.com/downloads/holoplay-sdk-looking-glass/)
 with the goal of trying to undertand new and interesting interaction patterns by looping depth display on itself. 
 
-There is a scene in `Scenes/RSRecursion` that is set up to display an RS point cloud at about 20-40cm from a D345 and render
+There is a scene in `Scenes/RSRecursion` that is set up to display an RS point cloud at about 20-40cm from a D435 and render
 with the LookingGlass Holodisplay Game Camera.
 
 My results have been mixed so far, but I see a lot of potential in the pattern. Potentially a D415 is better suited for this 
