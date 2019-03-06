@@ -1,8 +1,9 @@
 # RealSenseLookingGlassRecursion
 Experimenting with the fact that the Intel RealSense will get depth data from 3d content on the Looking Glass Display
 
+<a href="https://twitter.com/jun_mh4g/status/1102932506901307398"><img src="Docs/Images/tweet.png" align="left" width="200px" ></a>
+
 Inspired by this tweet (https://twitter.com/jun_mh4g/status/1102932506901307398) by @jun_mh4g
-![alt text](Docs/Images/tweet.png)
 
 Here I have set up a project with the Intel Realsense (https://github.com/IntelRealSense/librealsense) and Looking Glass Display Holoplay SDK (https://lookingglassfactory.com/downloads/holoplay-sdk-looking-glass/)
 with the goal of trying to undertand new and interesting interaction patterns by looping depth display on itself. 
