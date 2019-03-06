@@ -13,7 +13,9 @@ with the goal of trying to undertand new and interesting interaction patterns by
 
 <a href="https://www.youtube.com/watch?v=Rnau4ptFm7U"><img src="Docs/Images/Filming_holograms_with_the_realsense.gif" align="center" width="400px" ></a>
 
-Youtube: [**alex archive** - Filming holograms with the realsense](https://www.youtube.com/watch?v=Rnau4ptFm7U) Twitter: [@enjrolas](https://www.twitter.com/enjrolas) 
+Great video example from [@enjrolas](https://www.twitter.com/enjrolas) (Twitter)
+
+Youtube: [**alex archive** - Filming holograms with the realsense](https://www.youtube.com/watch?v=Rnau4ptFm7U)
 
 -------
 
